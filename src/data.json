@@ -1,0 +1,374 @@
+{
+  "BoisonCH": [
+    {
+      "name": "Café",
+      "price": "40 DA"
+    },
+    {
+      "name": "Café grains importation",
+      "price": "200 DA"
+    },
+    {
+      "name": "Café capsule locale",
+      "price": "100 DA"
+    },
+    {
+      "name": "Café capsule importation",
+      "price": "150 DA"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "200 DA"
+    },
+    {
+      "name": "Café au lait",
+      "price": "40 DA"
+    },
+    {
+      "name": "Lait Chaud",
+      "price": "30 DA"
+    },
+    {
+      "name": "Lait au chocolat",
+      "price": "60 DA"
+    },
+    {
+      "name": "Crème presse",
+      "price": "60 DA"
+    },
+    {
+      "name": "Chocolat Chaud",
+      "price": "250 DA"
+    },
+    {
+      "name": "Thé",
+      "price": "50 DA"
+    },
+    {
+      "name": "Tisane",
+      "price": "30 DA"
+    },
+    {
+      "name": "Lipton",
+      "price": "60 DA"
+    }
+  ],
+  "Salés": [
+    {
+      "name": "Croque-Monsieur",
+      "price": "350 DA"
+    },
+    {
+      "name": "Crêpe salée",
+      "price": "350 DA"
+    },
+    {
+      "name": "Gaufre salée",
+      "price": "450 DA"
+    },
+    {
+      "name": "Panini",
+      "price": "300 DA"
+    },
+    {
+      "name": "Jus de Fruit",
+      "price": "300 DA"
+    }
+
+  ],
+  "mains": [
+    {
+      "name": "Café",
+      "price": "40 DA"
+    },
+    {
+      "name": "Café grains importation",
+      "price": "200 DA"
+    },
+    {
+      "name": "Café capsule locale",
+      "price": "100 DA"
+    },
+    {
+      "name": "Café capsule importation",
+      "price": "150 DA"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "200 DA"
+    },
+    {
+      "name": "Café au lait",
+      "price": "40 DA"
+    },
+    {
+      "name": "Lait Chaud",
+      "price": "30 DA"
+    },
+    {
+      "name": "Lait au chocolat",
+      "price": "60 DA"
+    },
+    {
+      "name": "Crème presse",
+      "price": "60 DA"
+    },
+    {
+      "name": "Chocolat Chaud",
+      "price": "250 DA"
+    },
+    {
+      "name": "Thé",
+      "price": "50 DA"
+    },
+    {
+      "name": "Tisane",
+      "price": "30 DA"
+    },
+    {
+      "name": "Lipton",
+      "price": "60 DA"
+    }
+  ],
+  "Cocktail": [
+    {
+      "name": "Mojito",
+      "price": "350 DA"
+    },
+    {
+      "name": "Cocktail Tropical",
+      "price": "300 DA"
+    },
+    {
+      "name": "Coktail Ice Berg Bleu",
+      "price": "350 DA"
+    },
+    {
+      "name": "Coktail Pina Colada",
+      "price": "350 DA"
+    },
+    {
+      "name": "Coktail Reve de Jade",
+      "price": "350 DA"
+    },
+    {
+      "name": "Coktail Pause Encas",
+      "price": "400 DA"
+    }
+  ],
+  "Milkshake": [
+    {
+      "name": "Milkshake Banane",
+      "price": "300 DA",
+      "category": "Milkshake"
+    },
+    {
+      "name": "Milkshake Oreo",
+      "price": "400 DA",
+      "category": "Milkshake"
+    },
+    {
+      "name": "Milkshake Lotus",
+      "price": "400 DA",
+      "category": "Milkshake"
+    },
+    {
+      "name": "Milkshake tropical",
+      "price": "350 DA",
+      "category": "Milkshake"
+    }
+  ],
+  "Jus": [
+    {
+      "name": "Jus de Fruit",
+      "price": "300 DA"
+    },
+    {
+      "name": "Coktail de Fruits",
+      "price": "400 DA"
+    },
+    {
+      "name": "Milkshake Lotus",
+      "price": "400 DA",
+      "category": "Milkshake"
+    },
+    {
+      "name": "Milkshake tropical",
+      "price": "350 DA",
+      "category": "Milkshake"
+    }
+  ],
+  
+  "sucrés" :[
+    {
+      "name": "Crêpe Confiture",
+      "price": "200 DA"
+    },
+    {
+      "name": "Crêpe Nutella",
+      "price": "250 DA"
+    },
+    {
+      "name": "Crêpe Nutella Banane",
+      "price": "300 DA"
+    },
+    {
+      "name": "Gaufre Confiture",
+      "price": "250 DA"
+    },
+    {
+      "name": "Ganfre Nutella",
+      "price": "250 DA"
+    },
+    {
+      "name": "Gaufre Nutella Banane",
+      "price": "350 DA"
+    },
+    {
+      "name": "Bubble Gaufre Nutella",
+      "price": "350 DA"
+    },
+    {
+      "name": "Bubble Gaufre Nutella Banane ",
+      "price": "400 DA"
+    },
+    {
+      "name": "Suplément (Kinder. Mars et autres)",
+      "price": "selon"
+    }
+
+  ],
+  "Salades" : [
+    {
+      "name": "Salade de Crudités",
+      "price": "250  DA"
+    },
+    {
+      "name": "Salade de pâtes",
+      "price": "250 DA"
+    },
+    {
+      "name": "Salade de Ble",
+      "price": "300 DA"
+    },
+    {
+      "name": "Macédoine Prestige",
+      "price": "350 DA"
+    }
+  ],
+  "desserts" : [
+    {
+      "name": "Cheesecake LOTUS",
+      "price": "350 DA"
+    },
+    {
+      "name": "Cheesecake Chocolat",
+      "price": "300 DA"
+    },
+    {
+      "name": "Salade de Fruit",
+      "price": "300 DA"
+    },
+    {
+      "name": "Mousse Aur Chocolat",
+      "price": "200 DA"
+    }
+  ],
+  "gateaux" : [
+  {
+    "name": "Bradj Constantinois",
+    "price": "90 DA"
+  },
+  {
+    "name": "Croquet Bônois",
+    "price": "50 DA"
+  },
+  {
+    "name": "Cookies",
+    "price": "70 DA"
+  },
+  {
+    "name": "Croissant",
+    "price": "40 DA"
+  },
+  {
+    "name": "Pain au Chocolat",
+    "price": "40 DA"
+  },
+  {
+    "name": "Pain Suisse+ Chausson",
+    "price": "70 DA"
+  },
+  {
+    "name": "Cake",
+    "price": "70 DA"
+  },
+  {
+    "name": "Mini Snickers",
+    "price": "50 DA"
+  },
+  {
+    "name": "T'charek",
+    "price": "80 DA"
+  },
+  {
+    "name": "Nekkache",
+    "price": "80 DA"
+  },
+  {
+    "name": "Bniouene à la Helwat turque",
+    "price": "50 DA"
+  }
+
+  ],
+  "BoissonsF" :[
+    {
+      "name": "Canettes (Locales)",
+      "price": "100 DA"
+    },
+    {
+      "name": "Boissons Bouteille",
+      "price": "80 DA"
+    },
+    {
+      "name": "Boissons Energisante (Locale)",
+      "price": "80 DA"
+    },
+    {
+      "name": "Canettes (Importation)",
+      "price": "selon"
+    },
+    {
+      "name": "Candy Chocolat",
+      "price": "70 DA"
+    }, 
+    {
+      "name": "Rouiba Pack",
+      "price": "60 DA"
+    },
+    {
+      "name": "Ean minérale PM",
+      "price": "40 DA"
+    },
+    {
+      "name": "Eau minérale GM",
+      "price": "55 DA"
+    },
+    {
+      "name": "Lipton Ice The",
+      "price": "100 DA"
+    }
+    
+  ],
+  "Glaces" : [
+    {
+      "name": "Glaces Artisanales",
+      "price": "150 DA/ Boule"
+    },
+    {
+      "name": "Bubble Gaufre Glacée",
+      "price": "450/550/650 DA"
+    }
+  ]
+
+}
