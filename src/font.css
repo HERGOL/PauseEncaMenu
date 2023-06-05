@@ -1,7 +1,7 @@
 /* File: font.css */
 @font-face {
-    font-family: 'OPTIBodoniAntiqua-Medium':
-    src: local('OPTIBodoniAntiqua-Medium'),
-         url('./fonts/OPTIBodoniAntiqua-Medium.otf') format('otf'),
+    font-family: 'OPTIBodoniAntiqua':
+    src: local('OPTIBodoniAntiqua'),
+         url('./fonts/OPTIBodoniAntiqua.otf') format('otf'),
        
 }
