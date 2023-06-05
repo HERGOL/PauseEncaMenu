@@ -12,8 +12,8 @@ export default function Logo() {
         alt="Logo PauseEnca"
       />
       <div className="InfosContainer">
-        <div className={`location-container ${pinAnimation ? "pin-animation" : ""}`}>
-          <IoPinOutline className="location-icon" size={22} color="#191919" />
+        <div className="location-container" >
+          <IoPinOutline className={`location-icon ${pinAnimation ? "pin-animation" : ""}`} size={22} color="#191919" />
           <span className="address">
             <a href="https://goo.gl/maps/rWXr2xP8DoTGzHjw7" className="address-link">
               Tizi Ouzou
