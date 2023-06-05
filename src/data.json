@@ -2,372 +2,553 @@
   "BoisonCH": [
     {
       "name": "Café",
-      "price": "40 DA"
+      "price": "40 DA",
+      "watch": false ,
+      "url": ""
+
     },
     {
       "name": "Café grains importation",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café capsule locale",
-      "price": "100 DA"
+      "price": "100 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café capsule importation",
-      "price": "150 DA"
+      "price": "150 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Cappuccino",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café au lait",
-      "price": "40 DA"
+      "price": "40 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lait Chaud",
-      "price": "30 DA"
+      "price": "30 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lait au chocolat",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Crème presse",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Chocolat Chaud",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Thé",
-      "price": "50 DA"
+      "price": "50 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Tisane",
-      "price": "30 DA"
+      "price": "30 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lipton",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     }
   ],
   "Salés": [
     {
       "name": "Croque-Monsieur",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": true ,
+      "url": "https://www.instagram.com/p/CsoE9jGIdy4/"
     },
     {
       "name": "Crêpe salée",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Gaufre salée",
-      "price": "450 DA"
+      "price": "450 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Panini",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Jus de Fruit",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     }
 
   ],
   "mains": [
     {
       "name": "Café",
-      "price": "40 DA"
+      "price": "40 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café grains importation",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café capsule locale",
-      "price": "100 DA"
+      "price": "100 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café capsule importation",
-      "price": "150 DA"
+      "price": "150 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Cappuccino",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Café au lait",
-      "price": "40 DA"
+      "price": "40 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lait Chaud",
-      "price": "30 DA"
+      "price": "30 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lait au chocolat",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Crème presse",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Chocolat Chaud",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Thé",
-      "price": "50 DA"
+      "price": "50 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Tisane",
-      "price": "30 DA"
+      "price": "30 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lipton",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     }
   ],
   "Cocktail": [
     {
       "name": "Mojito",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": true ,
+      "url": "https://www.instagram.com/p/CoUEkAUItZQ/"
     },
     {
       "name": "Cocktail Tropical",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Coktail Ice Berg Bleu",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Coktail Pina Colada",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Coktail Reve de Jade",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Coktail Pause Encas",
-      "price": "400 DA"
+      "price": "400 DA",
+      "watch": true ,
+      "url": "https://www.instagram.com/p/CryHtMLoYgZ/"
     }
   ],
   "Milkshake": [
     {
       "name": "Milkshake Banane",
       "price": "300 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Milkshake Oreo",
       "price": "400 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Milkshake Lotus",
       "price": "400 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Milkshake tropical",
       "price": "350 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     }
   ],
   "Jus": [
     {
       "name": "Jus de Fruit",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Coktail de Fruits",
-      "price": "400 DA"
+      "price": "400 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Milkshake Lotus",
       "price": "400 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Milkshake tropical",
       "price": "350 DA",
-      "category": "Milkshake"
+      "category": "Milkshake",
+      "watch": false ,
+      "url": ""
     }
   ],
   
   "sucrés" :[
     {
       "name": "Crêpe Confiture",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Crêpe Nutella",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Crêpe Nutella Banane",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Gaufre Confiture",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Ganfre Nutella",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Gaufre Nutella Banane",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": true ,
+      "url": "https://www.instagram.com/p/Cn2OagNowJ4/"
     },
     {
       "name": "Bubble Gaufre Nutella",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Bubble Gaufre Nutella Banane ",
-      "price": "400 DA"
+      "price": "400 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Suplément (Kinder. Mars et autres)",
-      "price": "selon"
+      "price": "selon",
+      "watch": false ,
+      "url": ""
     }
 
   ],
   "Salades" : [
     {
       "name": "Salade de Crudités",
-      "price": "250  DA"
+      "price": "250  DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Salade de pâtes",
-      "price": "250 DA"
+      "price": "250 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Salade de Ble",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Macédoine Prestige",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     }
   ],
   "desserts" : [
     {
       "name": "Cheesecake LOTUS",
-      "price": "350 DA"
+      "price": "350 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Cheesecake Chocolat",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Salade de Fruit",
-      "price": "300 DA"
+      "price": "300 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Mousse Aur Chocolat",
-      "price": "200 DA"
+      "price": "200 DA",
+      "watch": false ,
+      "url": ""
     }
   ],
   "gateaux" : [
   {
     "name": "Bradj Constantinois",
-    "price": "90 DA"
+    "price": "90 DA",
+    "watch": true ,
+    "url": "https://www.instagram.com/p/CsgR9AZoDXW/"
   },
   {
     "name": "Croquet Bônois",
-    "price": "50 DA"
+    "price": "50 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Cookies",
-    "price": "70 DA"
+    "price": "70 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Croissant",
-    "price": "40 DA"
+    "price": "40 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Pain au Chocolat",
-    "price": "40 DA"
+    "price": "40 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Pain Suisse+ Chausson",
-    "price": "70 DA"
+    "price": "70 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Cake",
-    "price": "70 DA"
+    "price": "70 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Mini Snickers",
-    "price": "50 DA"
+    "price": "50 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "T'charek",
-    "price": "80 DA"
+    "price": "80 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Nekkache",
-    "price": "80 DA"
+    "price": "80 DA",
+    "watch": false ,
+    "url": ""
   },
   {
     "name": "Bniouene à la Helwat turque",
-    "price": "50 DA"
+    "price": "50 DA",
+    "watch": false ,
+    "url": ""
   }
 
   ],
   "BoissonsF" :[
     {
       "name": "Canettes (Locales)",
-      "price": "100 DA"
+      "price": "100 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Boissons Bouteille",
-      "price": "80 DA"
+      "price": "80 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Boissons Energisante (Locale)",
-      "price": "80 DA"
+      "price": "80 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Canettes (Importation)",
-      "price": "selon"
+      "price": "selon",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Candy Chocolat",
-      "price": "70 DA"
+      "price": "70 DA",
+      "watch": false ,
+      "url": ""
     }, 
     {
       "name": "Rouiba Pack",
-      "price": "60 DA"
+      "price": "60 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Ean minérale PM",
-      "price": "40 DA"
+      "price": "40 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Eau minérale GM",
-      "price": "55 DA"
+      "price": "55 DA",
+      "watch": false ,
+      "url": ""
     },
     {
       "name": "Lipton Ice The",
-      "price": "100 DA"
+      "price": "100 DA",
+      "watch": false ,
+      "url": ""
     }
     
   ],
   "Glaces" : [
     {
       "name": "Glaces Artisanales",
-      "price": "150 DA/ Boule"
+      "price": "150 DA/ Boule",
+      "watch": true ,
+      "url": "https://www.instagram.com/p/CsGn41NoKb-/"
     },
     {
-      "name": "Bubble Gaufre Glacée",
-      "price": "450/550/650 DA"
+      "name": "Bubble Gaufre Glacée:",
+      "price": "",
+      "watch": false ,
+      "url": ""
+    },
+    {
+      "name": "- 1 Boule:",
+      "price": "450DA"
+    },
+    {
+      "name": "- 2 Boules:",
+      "price": "550DA"
+    },
+    {
+      "name": "- 3 Boules:",
+      "price": "650DA"
     }
   ]
 

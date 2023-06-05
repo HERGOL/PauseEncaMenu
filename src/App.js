@@ -4,15 +4,16 @@ import Mains from "./components/Mains";
 import Extras from "./components/Extras";
 import Total from "./components/Total";
 import { Provider } from "./Context";
-import { BoisonCH, Cocktail,Milkshake,Jus,Salés,sucrés,Salades,desserts,gateaux,BoissonsF,Glaces} from "./data";
-
+import data from "./data";
 import "./styles.css";
-
+ const { BoisonCH, BoissonsF, Salés, Salades, desserts, Cocktail, Milkshake, Jus, sucrés, Glaces, gateaux } = data;
 export default function App() {
   return (
     <Provider>
       <div className="menu">
+        <div className="Logo">
         <Logo />
+        </div>
         <aside className="aside2">
         <Mains type="Nos Boissons Chaudes" items={BoisonCH}/>
         <Mains type="Nos Boissons Fraiches" items={BoissonsF}/>
